@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern=".settings" type="Eclipse" />
       <mapping ext="mwb" type="Native" />
+      <mapping ext="vue" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
